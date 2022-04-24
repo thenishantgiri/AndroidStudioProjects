@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Lab10"
+rootProject.name = "Lab10_ImplicitIntent"
 include ':app'

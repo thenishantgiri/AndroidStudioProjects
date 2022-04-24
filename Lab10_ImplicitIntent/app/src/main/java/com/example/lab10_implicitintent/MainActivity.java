@@ -1,4 +1,4 @@
-package com.example.lab10;
+package com.example.lab10_implicitintent;
 
 import androidx.appcompat.app.AppCompatActivity;
 
