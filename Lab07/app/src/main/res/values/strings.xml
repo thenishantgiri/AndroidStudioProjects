@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab07</string>
+    <string name="please_select_a_color">Please select a color</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+</resources>
