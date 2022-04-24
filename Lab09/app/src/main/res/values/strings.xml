@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab09</string>
+    <string name="fragment_2">Set Text Color</string>
+    <string name="fragment_1">Set BG Color</string>
+    <string name="background_color_changed_successfully">Background Color Changed Successfully</string>
+    <string name="text_color_changed_successfully">Text Color Changed Successfully</string>
+</resources>
