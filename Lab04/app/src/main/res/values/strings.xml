@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab04</string>
+    <string-array name="os">
+        <item>Android</item>
+        <item>MacOS</item>
+        <item>iOS</item>
+        <item>Windows</item>
+        <item>Linux</item>
+    </string-array>
+</resources>
