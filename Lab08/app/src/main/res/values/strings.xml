@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab08</string>
+    <string name="add_fragment">Add Fragment</string>
+    <string name="my_new_fragment">My New Fragment</string>
+</resources>
