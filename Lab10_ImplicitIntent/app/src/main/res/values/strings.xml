@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Lab10: ImplicitIntent</string>
-    <string name="hint">Enter URL (without https://www.)</string>
-    <string name="search">search</string>
-</resources>
